@@ -19,7 +19,7 @@ Esta solución mezcla 2 audios, para que mezcle un número
 indeterminado de mp3, faltaría actualizar el script para que
 pueda recibir infinitos mp3. 
 
-##Background investigado
+## Background investigado
 
 Usando afplay es capaz de reproducir WAV, AAC, MP3, M4A, AIFC just to name but a few, a rawfile, RAW, is NOT catered for see above.
 
